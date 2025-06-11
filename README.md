@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 Live Demo 
-[🌐 Visit Live Site](https://e-commerce-store-fzy2.onrender.com)
+[🌐 Visit Live Site](https://fluenthub.onrender.com)
 
 ---
 ### 🛠️ Tech Stack
