@@ -20,6 +20,10 @@
 
 ---
 
+### 🚀 Live Demo 
+[🌐 Visit Live Site](https://e-commerce-store-fzy2.onrender.com)
+
+---
 ### 🛠️ Tech Stack
 
 | Frontend       | Backend         | Realtime            | Other                   |
@@ -37,11 +41,13 @@ Built entirely by a solo developer as a showcase project for resume and intervie
 ### 📷 Screenshots & Demo
 
 <p align="center"> 
-<img src="./frontend/public/home-page_stremify.png" alt="Homepage" width="300" /> 
-<img src="./frontend/public/login_stremify.png" alt="Chat Room" width="300" /> 
-<img src="./frontend/public/videocall_streamify.png" alt="Video Call" width="300" /> 
-<img src="./frontend/public/chating_streamify.png" alt="Login Page" width="300" /> 
-<img src="./frontend/public/background-changer_streamify.png" alt="Profile Settings" width="300" /> 
+<img src="./frontend/public/home-page_stremify.png" alt="Homepage" width="250" /> 
+<img src="./frontend/public/login_streamify.png" alt="Chat Room" width="250" /> 
+<img src="./frontend/public/videocall_streamify.png" alt="Video Call" width="250" /> 
+</p>
+<p align = "center">
+<img src="./frontend/public/chating_streamify.png" alt="Login Page" width="250" /> 
+<img src="./frontend/public/background-change_streamify.png" alt="Profile Settings" width="250" /> 
 </p> 
 <p align="center"><i>✨ Real-time chat, video calling, and sleek UI in action ✨</i></p>
 
@@ -84,4 +90,4 @@ JWT_SECRET=your_jwt_secret
 
 ### 📄 License 
 
-MIT License
+This project is licensed under the [MIT License](./LICENSE).
