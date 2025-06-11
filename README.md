@@ -1,5 +1,5 @@
 
-### 🗣️ Streamify Language Exchange
+### 🗣️ FluentHub
 
 **Streamify Language Exchange** is a full-stack platform that connects language learners around the world. Practice speaking and chatting with fellow learners or native speakers via real-time chat and video calls — all in one sleek, modern app.
 
@@ -57,8 +57,8 @@ Built entirely by a solo developer as a showcase project for resume and intervie
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/streamify-language-exchange.git
-cd streamify-language-exchange
+git clone https://github.com/yourusername/FluentHub.git
+cd FluentHub
 
 # 2. Set up env variables (see `.env.example`)
 cp .env.example .env
