@@ -1,7 +1,7 @@
 
 ### 🗣️ FluentHub
 
-**Streamify Language Exchange** is a full-stack platform that connects language learners around the world. Practice speaking and chatting with fellow learners or native speakers via real-time chat and video calls — all in one sleek, modern app.
+**FluentHub** is a full-stack platform that connects language learners around the world. Practice speaking and chatting with fellow learners or native speakers via real-time chat and video calls — all in one sleek, modern app.
 
 ---
 
@@ -41,13 +41,13 @@ Built entirely by a solo developer as a showcase project for resume and intervie
 ### 📷 Screenshots & Demo
 
 <p align="center"> 
-<img src="./frontend/public/home-page_stremify.png" alt="Homepage" width="250" /> 
-<img src="./frontend/public/login_streamify.png" alt="Chat Room" width="250" /> 
-<img src="./frontend/public/videocall_streamify.png" alt="Video Call" width="250" /> 
+<img src="./frontend/public/home-page.png" alt="Homepage" width="250" /> 
+<img src="./frontend/public/login.png" alt="Chat Room" width="250" /> 
+<img src="./frontend/public/videocall.png" alt="Video Call" width="250" /> 
 </p>
 <p align = "center">
-<img src="./frontend/public/chating_streamify.png" alt="Login Page" width="250" /> 
-<img src="./frontend/public/background-change_streamify.png" alt="Profile Settings" width="250" /> 
+<img src="./frontend/public/chat-room.png" alt="Login Page" width="250" /> 
+<img src="./frontend/public/background_changer.png" alt="Profile Settings" width="250" /> 
 </p> 
 <p align="center"><i>✨ Real-time chat, video calling, and sleek UI in action ✨</i></p>
 
